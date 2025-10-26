@@ -3,7 +3,7 @@
 A modern, responsive redesign of the AppDost app discovery platform built with React.js and CSS .
 
 ## 🚀 Live Demo
-[View Live Project](https://appdost-assignment.vercel.app)
+[View Live Project](https://app-dost-psi.vercel.app/)
 
 ## 📋 Assignment Details
 This project was created as part of the Frontend Developer application process for AppDost. The goal was to recreate and improve upon the original AppDost interface with enhanced UX/UI design.
